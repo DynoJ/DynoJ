@@ -6,9 +6,6 @@
 🪴 My interest and development, [Digital Graden](https://JackKammerer.com/)<br/>
 ⚡️ Currently learning on data analystics and SQL<br/>
 
-![Jack Kammerer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynoj&show_icons=true&theme=gruvbox_light)
+![Jack Kammerer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynoj&show_icons=true&theme=github_dark_dimmed)
 
 
-gruvbox_light
-gruvbox
-github_dark_dimmed
