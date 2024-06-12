@@ -1,6 +1,6 @@
 ### Hi, I'm Jack!
 
-💼 [Portfolio]([https://github.com/DynoJ/DynoJ.github.io](https://dynoj.github.io/))<br/>
+💼 [Portfolio](https://github.com/DynoJ/DynoJ.github.io)<br/>
 📊 On a mission to tap into Data Analystics<br/>
 👨‍🎓 Computer Science with a minor in MBA at [TXST](https://www.txst.edu)<br/>
 🪴 My interest and development, [Digital Graden](https://JackKammerer.com/)<br/>
