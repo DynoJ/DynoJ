@@ -2,7 +2,7 @@
 
 💼 [Portfolio](https://github.com/DynoJ/DynoJ.github.io)<br/>
 📊 On a mission to tap into Data Analystics<br/>
-👨‍🎓 Studied Computer Science with a minor in business adminastation at Texas State University<br/>
+👨‍🎓 Computer Science with a minor in MBA at [TXST](https://www.txst.edu)<br/>
 🪴 My interest and development, [Digital Graden](https://JackKammerer.com/)<br/>
 ⚡️ Currently learning on data analystics and SQL<br/>
 
