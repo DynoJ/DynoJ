@@ -3,7 +3,7 @@
 💼 [Portfolio](https://dynoj.github.io/)<br/>
 📈 On a mission to tap into Data Analystics<br/>
 👨‍🎓 Computer Science with a minor in MBA at [TXST](https://www.txst.edu)<br/>
-🪴 My interest and development, [Digital Graden](https://JackKammerer.com/)<br/>
+🪴 My interest and development, [Digital Graden]()<br/>
 ⚡️ Currently learning data analystics and SQL<br/>
 
 ## 🌐 Socials
