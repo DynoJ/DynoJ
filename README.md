@@ -1,7 +1,7 @@
 ### Hi, I'm Jack!
 
 💼 [Portfolio](https://dynoj.github.io/)<br/>
-📈 On a mission to tap into Data Analytics<br/>
+   My Tech blog --> [Jackbytes.tech](https://www.jackbytes.tech)<br/>
 👨‍🎓 Computer Science with a minor in MBA at [TXST](https://www.txst.edu)<br/>
 ⚡️ Currently learning data analystics and SQL<br/>
 
