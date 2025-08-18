@@ -1,7 +1,7 @@
 ### Hi, I'm Jack!
 
 💼 [Portfolio](https://dynoj.github.io/)<br/>
-   My Tech blog --> [Jackbytes.tech](https://www.jackbytes.tech)<br/>
+   My Tech Blog --> [Jackbytes.tech](https://www.jackbytes.tech)<br/>
 👨‍🎓 B.S. in Computer Science with a minor in MBA at [TXST](https://www.txst.edu)<br/>
 ⚡️ Currently learning new Frameworks and AI implementations<br/>
 
