@@ -2,7 +2,7 @@
 
 Full-stack developer building web applications. Recent CS grad from Texas State University.
 
-**Current Project:** Tufo - climbing route discovery platform with 4,991+ routes and geospatial search
+**Current Project:** Climb/Mood Logger - IOS App
 
 ### 🔗 Links
 - 💼 [Portfolio](https://dynoj.github.io/)
